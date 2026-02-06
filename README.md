@@ -317,8 +317,8 @@ Download the installer from the releases page and run it. The installer handles 
 **If you find this project helpful, you can support my work here:**
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/rondinabrybry">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rondinabrybry&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" />
+  <a href="https://www.buymeacoffee.com/rondinabrybry" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" />
   </a>
 </p>
 
